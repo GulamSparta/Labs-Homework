@@ -1,0 +1,7 @@
+C:\Users\Public\Visual Studio Projects\Homework\Labs Homework\Labs Homework\Labs Homework\bin\Debug\Labs Homework.exe.config
+C:\Users\Public\Visual Studio Projects\Homework\Labs Homework\Labs Homework\Labs Homework\bin\Debug\Labs Homework.exe
+C:\Users\Public\Visual Studio Projects\Homework\Labs Homework\Labs Homework\Labs Homework\bin\Debug\Labs Homework.pdb
+C:\Users\Public\Visual Studio Projects\Homework\Labs Homework\Labs Homework\Labs Homework\obj\Debug\Labs Homework.csprojAssemblyReference.cache
+C:\Users\Public\Visual Studio Projects\Homework\Labs Homework\Labs Homework\Labs Homework\obj\Debug\Labs Homework.csproj.CoreCompileInputs.cache
+C:\Users\Public\Visual Studio Projects\Homework\Labs Homework\Labs Homework\Labs Homework\obj\Debug\Labs Homework.exe
+C:\Users\Public\Visual Studio Projects\Homework\Labs Homework\Labs Homework\Labs Homework\obj\Debug\Labs Homework.pdb
